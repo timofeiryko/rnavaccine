@@ -1,0 +1,100 @@
+> peptide
+VEFEPAHAAKIE
+> peptide
+ALFIAHLIGSSITQK
+> peptide
+FEPAHAAKIEVL
+> peptide
+AHLIGSSITQKV
+> peptide
+AHLIGSSITQKV
+> peptide
+AWMLGSSTTQRV
+> peptide
+ALFIAHLIGSSI
+> peptide
+KCRLKLDALTLK
+> peptide
+PLPWQSGASTSGETW
+> peptide
+PLPWQSGASTSGETW
+> peptide
+HLIGSSITQKVI
+> peptide
+WMLGSSTTQRVI
+> peptide
+LEGFEVDQEKIK
+> peptide
+HLVEFEPAHAAK
+> peptide
+HLVEFEPAHAAK
+> peptide
+HLVEFEPAHAAK
+> peptide
+HLVEFEPAHAAK
+> peptide
+KKLEGFEVDQEKIKY
+> peptide
+CRLKLDALTLKG
+> peptide
+KQLQKVETWALR
+> peptide
+KQLQKVETWALR
+> peptide
+IAHLIGSSITQK
+> peptide
+MLGSSTTQRVII
+> peptide
+ETWLSTSNGKEHLTR
+> peptide
+EGFEVDQEKIKY
+> peptide
+EGFEVDQEKIKY
+> peptide
+EGFEVDQEKIKY
+> peptide
+EGFEVDQEKIKY
+> peptide
+AKFDALAGSQEI
+> peptide
+AKFDALAGSQEI
+> peptide
+AKFDALAGSQEI
+> peptide
+PGYALAAVALAW
+> peptide
+GAMEIQTKDTNDNNL
+> peptide
+GAMEIQTKDTNDNNL
+> peptide
+GAMEIQTKDTNDNNL
+> peptide
+VLALGNQEGALHTAL
+> peptide
+LRKLCIEAKISH
+> peptide
+FEVDQEKIKYSI
+> peptide
+FEVDQEKIKYSI
+> peptide
+FEVDQEKIKYSI
+> peptide
+NNLYKIFAGHLK
+> peptide
+MEIQTKDTNDNNLYK
+> peptide
+TRTETWMSSRGAWKQ
+> peptide
+LAWMLGSSTTQR
+> peptide
+MAKDKPSLDIEL
+> peptide
+MAKDKPSLDIEL
+> peptide
+TMAKDKPSLDIELEK
+> peptide
+FDALAGSQEIEF
+> peptide
+ERWVLRNPGYAL
+> peptide
+ERWVLRNPGYAL
